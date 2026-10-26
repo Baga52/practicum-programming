@@ -1,0 +1,5 @@
+мидис|https://portal.midis.info/online/
+Яндекс|https://yandex.ru
+Госуслуги|https://gosuslugi.ru
+GitHub|https://github.com
+пас|https://pass.merlant.xyz/
